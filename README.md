@@ -1,9 +1,9 @@
 # Pilgrim Preceptors — Constitutions & Regulations 2026
 
-Open index.html in a browser. No installation or dependencies required.
+Open index.html in any browser. No installation or dependencies.
 
-Includes all 46 rules, Appendices A and B, Greek navigation, full-text search with highlighted matches, topic index and PDF page links. The original English text is retained. Additional rule titles are navigation aids.
+All 46 rules and both appendices; Greek navigation; English source text; full-text search, highlighted matches, topic index and PDF links.
 
-Keep constitutions-2026.pdf alongside index.html for source links. The HTML text search also works offline.
+Keep constitutions-2026.pdf alongside index.html. The original PDF remains authoritative. Additional rule headings are navigation labels.
 
-Live website: https://pilgrim-preceptors-regulations-2026.dskiad.chatgpt.site
+Live site: https://pilgrim-preceptors-regulations-2026.dskiad.chatgpt.site
